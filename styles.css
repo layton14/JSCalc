@@ -11,6 +11,15 @@ button {
     width: 195px;
 }
 
+#formulaDisplay {
+    width: 185px;
+    font-size: small;
+    border-style: solid;
+    text-align: left;
+    background-color: whitesmoke;
+    font-family: ui-monospace;
+}
+
 #calcDisplay {
     width: 185px;
     height: 35px;
@@ -22,7 +31,7 @@ button {
 }
 
 #zero {
-    width: 94 px;;
+    width: 94px;;
 }
 
 .number {
